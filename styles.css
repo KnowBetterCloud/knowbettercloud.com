@@ -95,12 +95,12 @@ th {
 
     display: table;
     /* 2 */
-
   }
   .container:after {
     clear: both;
   }
-  footer {
+
+  .footer {
       margin: 50px 0 25px;
       font-size: 11px
   }
